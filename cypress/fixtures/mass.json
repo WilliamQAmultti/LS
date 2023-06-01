@@ -1,0 +1,21 @@
+{
+  "registration": {
+      "user": "lihekal170@fd.com",
+      "password": "123226"
+  },
+  "emailAndPassordInvalid": {
+      "user": "adm-will@gmail.com",
+      "password": "123"
+  },
+  "emailValidPasswordInvalid": {
+      "user": "usuariotes@multti.com",
+      "password": "125"
+  },
+  "cadastrodeusuario":{
+      "nome": "teste automacao",
+      "email": "teste1d@fd.com",
+      "celular": "96635745681",
+      "senha": "123226"
+  }
+}
+

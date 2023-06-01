@@ -1,0 +1,16 @@
+{
+  "name": "lscypress12",
+  "version": "1.0.0",
+  "description": "teste automatizado Ls",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "William de Souza",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.3.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}
